@@ -6,7 +6,8 @@ package pertemuan701;
 
 /**
  *
- * @author User
+ * @author Wahyu Putra
+ * TGL 09 Mei 2025 
  */
 public class Salam {
     
